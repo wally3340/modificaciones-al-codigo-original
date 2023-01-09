@@ -1,0 +1,28 @@
+p
+{color: darkblue;}
+h1 {
+    color:brown;
+    border-color: black;
+    max-height: fit-content; 
+     width: 300px;
+     border: 15px solid green;
+     padding: 50px;
+    margin: 20px;
+      
+}
+
+
+h2 {
+    color:green;
+    width: 300px;
+    border: 15px dotted greenyellow;
+    padding: 50px;
+   margin: 20px;
+}
+p { color:brown;
+    border-color: black;
+    max-height: fit-content; 
+     width: 300px;
+     border: 2px solid brown;
+     padding: 50px;
+    margin: 20px;}
