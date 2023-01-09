@@ -26,3 +26,12 @@ p { color:brown;
      border: 2px solid brown;
      padding: 50px;
     margin: 20px;}
+    h1{  border: 1px solid black;
+        outline-style: solid;
+        outline-color: red;
+        outline-width:medium;
+         background-color: black;
+                 color: white;
+          }
+      
+    
