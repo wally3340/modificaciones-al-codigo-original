@@ -5,7 +5,7 @@ h1 {
     h2 {
     font: bold 14px verdana, sans-serif;
     }
-    body {
+    body {background-color: aquamarine;
         text-align: center;
         }
         #agrupar {
