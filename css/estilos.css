@@ -4,10 +4,10 @@ h1 {
     color:brown;
     border-color: black;
     max-height: fit-content; 
-     width: 300px;
+     width: 150px;
      border: 15px solid green;
      padding: 50px;
-    margin: 20px;
+    margin: 10px;
       
 }
 
@@ -33,5 +33,16 @@ p { color:brown;
          background-color: black;
                  color: white;
           }
+ol{
+    list-style-type: square;
+    list-style-position: inside;
+    background:red;
+  color: white;
+  width: 300px;
+  border: 15px ;
+  padding: 50px;
+ margin: 20px;
+}
+ 
       
     
